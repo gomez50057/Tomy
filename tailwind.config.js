@@ -37,10 +37,11 @@ module.exports = {
         620: "620px",
       },
       screens: {
+        sx: "320",
         sm: "640px",
         md: "768px",
-        lg: "1024px",
-        xl: "1280px",
+        lg: "1024px",  
+        xl: "1340px",
         "2xl": "1536px",
       },
       colors: {
