@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Tomy/static/css/main.44afb9fb.css",
-    "main.js": "/Tomy/static/js/main.7121c6f7.js",
+    "main.css": "/Tomy/static/css/main.63ba307a.css",
+    "main.js": "/Tomy/static/js/main.cfb115f4.js",
     "static/media/i1.png": "/Tomy/static/media/i1.348a47aa23483dbfcc90.png",
     "static/media/fi1.png": "/Tomy/static/media/fi1.9d8a0d17be4c825dc241.png",
     "static/media/f1.png": "/Tomy/static/media/f1.ce0209afabf82064764d.png",
     "static/media/heroBg.png": "/Tomy/static/media/heroBg.c43c4862422e70d88698.png",
     "static/media/fundas.webp": "/Tomy/static/media/fundas.cdacafd0c8eb0e692dc6.webp",
+    "static/media/mica.png": "/Tomy/static/media/mica.84f78cc66d598fd80919.png",
     "static/media/logo.png": "/Tomy/static/media/logo.9efa3531889d7fc411fb.png",
     "static/media/delivery.png": "/Tomy/static/media/delivery.29b07273e4d39a0c8ddf.png",
     "static/media/USB-SAMSUNG.png": "/Tomy/static/media/USB-SAMSUNG.5e2fc72cb8b474fe0cd0.png",
     "index.html": "/Tomy/index.html",
-    "main.44afb9fb.css.map": "/Tomy/static/css/main.44afb9fb.css.map",
-    "main.7121c6f7.js.map": "/Tomy/static/js/main.7121c6f7.js.map"
+    "main.63ba307a.css.map": "/Tomy/static/css/main.63ba307a.css.map",
+    "main.cfb115f4.js.map": "/Tomy/static/js/main.cfb115f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.44afb9fb.css",
-    "static/js/main.7121c6f7.js"
+    "static/css/main.63ba307a.css",
+    "static/js/main.cfb115f4.js"
   ]
 }
