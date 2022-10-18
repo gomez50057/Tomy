@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Tomy/static/css/main.923c47a8.css",
-    "main.js": "/Tomy/static/js/main.16bcc7e1.js",
+    "main.css": "/Tomy/static/css/main.44afb9fb.css",
+    "main.js": "/Tomy/static/js/main.7121c6f7.js",
     "static/media/i1.png": "/Tomy/static/media/i1.348a47aa23483dbfcc90.png",
     "static/media/fi1.png": "/Tomy/static/media/fi1.9d8a0d17be4c825dc241.png",
     "static/media/f1.png": "/Tomy/static/media/f1.ce0209afabf82064764d.png",
@@ -11,11 +11,11 @@
     "static/media/delivery.png": "/Tomy/static/media/delivery.29b07273e4d39a0c8ddf.png",
     "static/media/USB-SAMSUNG.png": "/Tomy/static/media/USB-SAMSUNG.5e2fc72cb8b474fe0cd0.png",
     "index.html": "/Tomy/index.html",
-    "main.923c47a8.css.map": "/Tomy/static/css/main.923c47a8.css.map",
-    "main.16bcc7e1.js.map": "/Tomy/static/js/main.16bcc7e1.js.map"
+    "main.44afb9fb.css.map": "/Tomy/static/css/main.44afb9fb.css.map",
+    "main.7121c6f7.js.map": "/Tomy/static/js/main.7121c6f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.923c47a8.css",
-    "static/js/main.16bcc7e1.js"
+    "static/css/main.44afb9fb.css",
+    "static/js/main.7121c6f7.js"
   ]
 }
